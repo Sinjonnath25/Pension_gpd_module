@@ -6,5 +6,5 @@ Resources:
         TaskDefinition: "arn:aws:ecs:ap-south-1:176275544602:task-definition/test-gpd-td:1"
         LoadBalancerInfo:
           ContainerName: "test-gpd-container"
-          ContainerPort: "9003"
+          ContainerPort: "9001"
         PlatformVersion: "LATEST"
